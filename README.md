@@ -2,11 +2,11 @@ This files points to the   DVSwitch  "MMDVM_Bridge tune" command allowing updati
 
 First I make a directroy called /local on my system
 
-        cd ~
+    cd ~
         
 Time to make the dir
 
-        sudo mkdir /local
+    sudo mkdir /local
 
 Move into the new dir
 
@@ -42,7 +42,8 @@ or
     sudo ./condivs.sh 3206802
 
   Added to  the rpt.conf file  under the [functions]
-    /ets/asterisk/rpt.cong
+
+    sudo nano /etc/asterisk/rpt.conf
 
       [functions]
       ; DVS Remote Tuning
@@ -53,7 +54,8 @@ or
       3865 = cmd,/local/condvs.sh 865        ; TGIF TG 865 Knoxville Digital Group
  
   Added to the  Allmon3  web.ini file as a bookmark under the [syscmds] header
-    /etc/allmon3/web.ini
+
+    sudo nano /etc/allmon3/web.ini
 
       [syscmds]
       rpt fun @ *3871 = TGIF TG 53715
@@ -61,9 +63,3 @@ or
       rpt fun @ *3873 = TGIF TG 204
       rpt fun @ *3874 = TGIF TG 3143399 HRC KD5FMU
       rpt fun @ *3865 = TGIF TG 865
-
-I create a  directory called "/local" where I put all my custome files for ease of location and use.
-
-      sudo mkdir /local
-
-      
