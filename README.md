@@ -22,9 +22,17 @@ Once complete   cttl+x, ctrl+y, then enter. to save changes
 Now make condvs.sh  executable, and you're ready to go.
 
     sudo chmod +x condvs.sh
-Here is how you can us it.    
+Here is how you can us it.
+
+to execute the command in the dir use:    sudo ./condvs.sh (talk group nuber goes here) 
+
+example:    sudo ./condvs.sh 3206802
   
   crontab, This will make a DMR assignment at 10:00 every day.
+  
+  Use https://crontab.guru
+  
+  to help you make your timing for you event
    
     0 10 * * * /local/condvs.sh 3206802 
   Command line
