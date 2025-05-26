@@ -61,11 +61,17 @@ Reference Materials.
 Thank you to KD5FMU /Freddie  HRC, for making his videoshttps://github.com/kd4ufd/condvs.sh
 
 HRC Videos:
-             ASL3 Release: https://www.youtube.com/watch?v=aeuj-yI8qrU&t=910s
-           ASL3 Multi_App: https://www.youtube.com/watch?v=nPjrUngK1Wc&t=147s
-ASL3 connect / disconnect: https://www.youtube.com/watch?v=F3vl7bUIcsI
-         ASL3 DVS  Part 1: https://www.youtube.com/watch?v=Q73vW2tZVco
-          ASL3 DVS Part 2: https://www.youtube.com/watch?v=HlVs9rC5pgE&t=555s
-        ASL3 Allmon3 Favs: https://www.youtube.com/watch?v=0QXYMEWoa9U.
+
+ASL3 Release: https://www.youtube.com/watch?v=aeuj-yI8qrU&t=910s
+
+ASL3 Multi_App: https://www.youtube.com/watch?v=nPjrUngK1Wc&t=147s
+
+ASL3 Connect / disconnect: https://www.youtube.com/watch?v=F3vl7bUIcsI
+
+ASL3 DVS  Part 1: https://www.youtube.com/watch?v=Q73vW2tZVco
+
+ASL3 DVS Part 2: https://www.youtube.com/watch?v=HlVs9rC5pgE&t=555s
+
+ASL3 Allmon3 Favs: https://www.youtube.com/watch?v=0QXYMEWoa9U.
 
 DVSwitch can be found at:  https://github.com/dvswitch
